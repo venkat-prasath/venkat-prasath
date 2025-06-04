@@ -14,7 +14,7 @@ I'm a recent MSc Data Science graduate from the University of East London, trans
 - 🧠 Skilled in anomaly detection techniques like DBSCAN, Isolation Forest, LOF, and PCA  
 - 🛠️ Fluent in data wrangling, statistical modeling, clustering, and classification  
 - 🌍 Comfortable working with both tabular and geospatial data (GeoDa, QGIS)  
-- 📬 Let's connect: [LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your@email.com)
+- 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/venkat-prasath-ramakrishnan-324995258/) | [Email](mailto:prasath2444@gmail.com)
 
 ---
 
@@ -65,6 +65,6 @@ I'm a recent MSc Data Science graduate from the University of East London, trans
 
 <p align="center">
   🔗 <a href="https://github.com/venkatprasathramakrishnan">GitHub</a> • 
-  💼 <a href="https://www.linkedin.com/in/venkat-prasath-ramakrishnan/">LinkedIn</a> • 
+  💼 <a href="https://www.linkedin.com/in/venkat-prasath-ramakrishnan-324995258/">LinkedIn</a> • 
   📧 <a href="mailto:prasath2444@gmail.com">Email</a>
 </p>
