@@ -65,6 +65,6 @@ I'm a recent MSc Data Science graduate from the University of East London, trans
 
 <p align="center">
   🔗 <a href="https://github.com/venkatprasathramakrishnan">GitHub</a> • 
-  💼 <a href="www.linkedin.com/in/venkat-prasath-ramakrishnan-324995258">LinkedIn</a> • 
+  💼 <a href="(https://linkedin.com/in/Venkat Prasath Ramakrishnan)">LinkedIn</a> • 
   📧 <a href="mailto:prasath2444@gmail.com">Email</a>
 </p>
